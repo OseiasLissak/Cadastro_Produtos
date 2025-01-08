@@ -1,0 +1,22 @@
+#submitbtn{
+    font-size: 20px;
+}
+.container{
+    margin: auto;
+
+}
+
+
+table{
+    border-collapse: collapse;
+    width: 50%;
+}
+
+table th{
+    background-color: rgb(158, 157, 155);
+}
+h1{
+    font-size: 30px;
+    align-items: center;
+
+}
